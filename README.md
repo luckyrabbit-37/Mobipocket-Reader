@@ -221,3 +221,6 @@ Mobipocket Reader is the full free version with all features and updates include
 ---
 
 Ready to enhance your reading experience? Download Mobipocket Reader today and take control of your digital library!
+
+---
+**Last updated:** 2026-09-16 23:22:29 UTC
